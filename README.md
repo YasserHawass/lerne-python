@@ -18,6 +18,8 @@ Just a check repo for python hopefully this repo is only specific to python and 
   - Code Clinic python version Udemy
   - Badr Book for python tricks and such //TDL
   - Youtube videos about (cover, test, CI, putup)
+    - https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them
+    - https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03
   - MIT 6.006 (https://courses.csail.mit.edu/6.006/fall11/notes.shtml) //Here
   - Udacity Algo
   - Skinna Algo manual Book
