@@ -10,6 +10,8 @@ Just a check repo for python hopefully this repo is only specific to python and 
 
 # Resourcecs
   - Python 3.7 Docs (https://docs.python.org/3/) and search.
+    - https://docs.python.org/3/tutorial/modules.html
+    - https://www.learnpython.org/en/Modules_and_Packages
   - Python with Colt on Udemy //Needs revise though on decorators and such
   - Code Clinic python version Udemy
   - Badr Book for python tricks and such //TDL
